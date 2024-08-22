@@ -1,7 +1,7 @@
 # Oi! Eu sou Vicky 👾✨
 
 🌟 **Sobre Mim**  
-Sou esenvolvedora front-end e estou sempre aprimorando minhas habilidades em busca de novas soluções para criar experiências incríveis. A tecnologia é minha principal ferramenta para transformar ideias em realidade.
+Sou desenvolvedora front-end e estou sempre aprimorando minhas habilidades em busca de novas soluções para criar experiências incríveis. A tecnologia é minha principal ferramenta para transformar ideias em realidade.
 
 💻 **Habilidades Técnicas**  
 - **Linguagens:** TypeScript, JavaScript  
